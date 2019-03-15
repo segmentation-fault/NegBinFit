@@ -312,7 +312,7 @@ def negative_multinomial_PDF(k0, p1, p2, x1, x2):
 
             Args:
                 k0 (int): the number of failures before the experiment is stopped.
-                p1, p2 (float): vector of “success” probabilities. p1 + p2 <= 1.
+                p1, p2 (float): vector of ssuccess probabilities. p1 + p2 <= 1.
                 x1, x2 (integer): values in which to calculate the distribution.
 
             Returns:
